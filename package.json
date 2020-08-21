@@ -1,0 +1,25 @@
+{
+  "name": "color_library",
+  "version": "0.0.1",
+  "description": "A color library containing all the html ral panton values as an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draganradu/color_library.git"
+  },
+  "keywords": [
+    "color-library", "color list", "html list", "ral list", "pantone list"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "author": "Radu Dragan <draganaurelradu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/draganradu/color_library/issues"
+  },
+  "homepage": "https://github.com/draganradu/color_library#readme"
+}
